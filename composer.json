@@ -1,0 +1,12 @@
+{
+    "name": "alesbencina/mycode",
+    "type": "package",
+    "authors": [
+        {
+            "name": "ales",
+            "email": "ales.bencina@agiledrop.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
