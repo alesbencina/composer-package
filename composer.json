@@ -1,12 +1,14 @@
 {
-    "name": "alesbencina/mycode",
-    "type": "package",
-    "authors": [
-        {
-            "name": "ales",
-            "email": "ales.bencina@agiledrop.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "alesbencina/mycode",
+  "type": "package",
+  "authors": [
+    {
+      "name": "ales",
+      "email": "ales.bencina@agiledrop.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+     "nesbot/carbon": "1.25.0"
+  }
 }
